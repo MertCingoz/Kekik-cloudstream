@@ -9,7 +9,7 @@ import com.lagradost.cloudstream3.utils.*
 import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
 
 class RecTV : MainAPI() {
-    override var mainUrl              = "https://m.prectv4.sbs"
+    override var mainUrl              = "https://m.prectv8.sbs"
     override var name                 = "RecTV"
     override val hasMainPage          = true
     override var lang                 = "tr"
@@ -63,7 +63,10 @@ class RecTV : MainAPI() {
     }
 
     override suspend fun search(query: String): List<SearchResponse> {
-        val home    = app.get("${mainUrl}/api/search/${query}/${swKey}/")
+        val home    = app.get(
+            "${mainUrl}/api/search/${query}/${swKey}/",
+            headers = mapOf("user-agent" to "okhttp/4.12.0")
+        )
         val veriler = AppUtils.tryParseJson<RecSearch>(home.text)
 
         val sonuclar = mutableListOf<SearchResponse>()
