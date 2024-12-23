@@ -156,7 +156,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MertCingoz/Kekik-cloudstream",
-        "fileSize": 18588,
+        "fileSize": 18586,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -167,7 +167,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 19,
+        "version": 20,
         "internalName": "DiziPal",
         "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
         "url": "https://raw.githubusercontent.com/MertCingoz/Kekik-cloudstream/builds/DiziPal.cs3",
@@ -274,7 +274,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MertCingoz/Kekik-cloudstream",
-        "fileSize": 19261,
+        "fileSize": 19338,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -285,7 +285,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 17,
+        "version": 18,
         "internalName": "HDFilmCehennemi",
         "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi",
         "url": "https://raw.githubusercontent.com/MertCingoz/Kekik-cloudstream/builds/HDFilmCehennemi.cs3",
@@ -451,7 +451,7 @@
         "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MertCingoz/Kekik-cloudstream",
-        "fileSize": 18860,
+        "fileSize": 18873,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -463,7 +463,7 @@
             "Live",
             "TvSeries"
         ],
-        "version": 28,
+        "version": 33,
         "internalName": "RecTV",
         "description": "RecTv APK, T\u00fcrkiye\u2019deki en pop\u00fcler \u00c7evrimi\u00e7i Medya Ak\u0131\u015f platformlar\u0131ndan biridir. Filmlerin, Canl\u0131 Sporlar\u0131n, Web Dizilerinin ve \u00e7ok daha fazlas\u0131n\u0131n keyfini \u00fccretsiz \u00e7\u0131kar\u0131n.",
         "url": "https://raw.githubusercontent.com/MertCingoz/Kekik-cloudstream/builds/RecTV.cs3",
