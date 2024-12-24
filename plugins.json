@@ -292,6 +292,25 @@
         "name": "HDFilmCehennemi"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hqporner.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/MertCingoz/Kekik-cloudstream",
+        "fileSize": 16943,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "HQPorner",
+        "description": "Truly high definition porn videos and truly for free! We're sure you'll like our best collection containing thousands of 4K, 60FPS and 1080p free HD porn videos with the hottest girls ever!",
+        "url": "https://raw.githubusercontent.com/MertCingoz/Kekik-cloudstream/builds/HQPorner.cs3",
+        "name": "HQPorner"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=720pizle.ai&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MertCingoz/Kekik-cloudstream",
@@ -451,7 +470,7 @@
         "iconUrl": "https://rectvapk.cc/wp-content/uploads/2023/02/Rec-TV.webp",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MertCingoz/Kekik-cloudstream",
-        "fileSize": 18873,
+        "fileSize": 18879,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -463,7 +482,7 @@
             "Live",
             "TvSeries"
         ],
-        "version": 33,
+        "version": 34,
         "internalName": "RecTV",
         "description": "RecTv APK, T\u00fcrkiye\u2019deki en pop\u00fcler \u00c7evrimi\u00e7i Medya Ak\u0131\u015f platformlar\u0131ndan biridir. Filmlerin, Canl\u0131 Sporlar\u0131n, Web Dizilerinin ve \u00e7ok daha fazlas\u0131n\u0131n keyfini \u00fccretsiz \u00e7\u0131kar\u0131n.",
         "url": "https://raw.githubusercontent.com/MertCingoz/Kekik-cloudstream/builds/RecTV.cs3",
