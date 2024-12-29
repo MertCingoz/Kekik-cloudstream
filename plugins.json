@@ -205,7 +205,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "FilmModu",
         "description": "Film modun geldiyse y\u00fcksek kalitede en yeni filmleri izle, 1080p izleyebilece\u011finiz reklamsiz film sitesi.",
         "url": "https://raw.githubusercontent.com/MertCingoz/Kekik-cloudstream/builds/FilmModu.cs3",
@@ -492,7 +492,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/MertCingoz/Kekik-cloudstream",
-        "fileSize": 19145,
+        "fileSize": 19146,
         "status": 1,
         "language": "tr",
         "authors": [
@@ -502,7 +502,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 6,
+        "version": 7,
         "internalName": "SetFilmIzle",
         "description": "Setfilmizle sitemizde, donma ya\u015famadan T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 filmleri ile dizileri muhte\u015fem 1080p full HD kalitesinde izleyebilirsiniz.",
         "url": "https://raw.githubusercontent.com/MertCingoz/Kekik-cloudstream/builds/SetFilmIzle.cs3",
