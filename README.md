@@ -1,7 +1,7 @@
 ```shell
-cd ../android-sdk
+cd ../../android-sdk
 source bin/init.sh
-cd ../Kekik-cloudstream
+cd ../stream/Kekik-cloudstream
 ./gradlew make makePluginsJson
 ```
 
